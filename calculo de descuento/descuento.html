@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Porcentajes y descuentos</title>
+</head>
+<body>
+    <header>
+        <h1>Porcentajes y descuentos</h1>
+    </header>
+
+    <section>
+        <h2>Calcula el precio a pagar de tus productos</h2>
+
+        <form action="">
+
+            <label for="inputPrice">
+                <span>Escribe el precio de tu producto</span>
+                <input type="number" id="inputPrice">
+            </label>
+      
+            </br>
+
+            <label for="inputDiscount">
+                <span>Escribe el descueto de tu prodcuto</span>
+                <input type="number" id="inputDiscount">
+            </label>
+
+            <button type="button" onclick="onClickButtonPriceDiscount()">Calcular el precio con descuento</button>
+
+            <p id="resultPrice"></p> <!--dejamos vacio el p, pero le agregamos un id para poder referenciarlo con js-->
+        </form>
+
+    </section>
+    
+    <script src="./descuento.js"></script>
+</body>
+</html>
