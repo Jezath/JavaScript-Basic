@@ -18,3 +18,8 @@
 - 1er paso: Definir las fórmulas
 - 2do paso: Implementar las fórmulas en JS
 - 3er paso: Crear funciones
+
+## Taller 4: Cálculo de salarios
+- 1er paso: Definir las fórmulas
+- 2do paso: Implementar las fórmulas en JS
+- 3er paso: Crear funciones
