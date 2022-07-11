@@ -1,4 +1,4 @@
-# curso-javascript
+# Javascript básico
 
 ## Taller 1: Figuras geométricas
 
